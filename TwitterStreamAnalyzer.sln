@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterStreamAnalyzer", "TwitterStreamAnalyzer\TwitterStreamAnalyzer.csproj", "{72275784-25E6-429E-9342-979CE5F11792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterStreamAnalyzerTests", "TwitterStreamAnalyzerTests\TwitterStreamAnalyzerTests.csproj", "{73799B9A-9B3B-4AB9-B924-7A4F18C96421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72275784-25E6-429E-9342-979CE5F11792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72275784-25E6-429E-9342-979CE5F11792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72275784-25E6-429E-9342-979CE5F11792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72275784-25E6-429E-9342-979CE5F11792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73799B9A-9B3B-4AB9-B924-7A4F18C96421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73799B9A-9B3B-4AB9-B924-7A4F18C96421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73799B9A-9B3B-4AB9-B924-7A4F18C96421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73799B9A-9B3B-4AB9-B924-7A4F18C96421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9791114-2899-44D3-8DF9-DF3F016A618E}
+	EndGlobalSection
+EndGlobal
